@@ -9,4 +9,4 @@ Dashboard criado utilizando:
 - Segmentação de dados
 - Gráficos
 
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard)

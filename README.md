@@ -9,4 +9,4 @@ Dashboard criado utilizando:
 - Segmentação de dados
 - Gráficos
 
-![Dashboard](Captura de tela 2026-03-09 231730.png)
+![Dashboard](Dashboard.png)
